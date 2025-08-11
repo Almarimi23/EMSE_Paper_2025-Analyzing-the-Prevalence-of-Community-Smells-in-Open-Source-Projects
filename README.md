@@ -18,7 +18,6 @@ responded “always” and “frequently” faced the OSE community smells faced
 By doing so, our work contributes to the growing body of research on socio-technical aspects of software
 engineering and provides practical guidance for improving team dynamics and software project outcomes.
 
-## Analyzing the Prevalence of Community Smells in ML projects
 <ul>
     <li>Please consider Datasets/Selected_Repos-with-release.csv file to get the selected projects</li>
     <li>Apply **csDetector_New_Param** on the selected repositories. Details of running csDetector is available here - [https://github.com/Nuri22/csDetector]. For the modified version, please provide the <i>start_date</i> and <i>end_date</i> to analyze within a defined time period.  </li>
